@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Parikh</title>
+    <link>https://anishparikhwebsite.firebaseapp.com/</link>
+    <description>Recent content on Anish Parikh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://anishparikhwebsite.firebaseapp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://anishparikhwebsite.firebaseapp.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anishparikhwebsite.firebaseapp.com/about/</guid>
+      <description>  I am passionate about architecting and building large scale, highly available and performant distributed systems I like to explore in depth different technologies available in the market and pick the right solution for the problem at hand My main areas of interest include Distributed Systems, Web Applications and Embedded Systems I love working in a team and interacting with new people  Hobbies  I am an avid reader and my favorite genres are fiction and biograhpies I love playing soccer, tennis and cricket I regularly participate in marathons and triathlons in various parts of the world  </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://anishparikhwebsite.firebaseapp.com/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anishparikhwebsite.firebaseapp.com/education/</guid>
+      <description>Carnegie Mellon University
+M.S. in Information Networking, 2013-2015
+GPA: 3.78 / 4.00
+ Nirma University
+B.Tech. in Electronics and Communications, 2009-2013
+GPA: 8.54 / 10.00</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://anishparikhwebsite.firebaseapp.com/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anishparikhwebsite.firebaseapp.com/experience/</guid>
+      <description>Bloomberg LP
+Senior Software Engineer, 2018-Present Sell-Side Post Trade Workflows &amp;amp; Infrastructure (C++/Python/Javascript)
+ Architecting a high-performance, low latency, robust and highly-available platform for post-trade management We are building out a global, multi-asset platform to meet all post-trade requirements for our clients Leading projects starting from the requirements gathering phase to ultimately delivering them to the end client and collaborating closely with product counterparts Implementing enhancements and providing production support for the system.</description>
+    </item>
+    
+  </channel>
+</rss>

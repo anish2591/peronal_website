@@ -1,0 +1,69 @@
+baseurl = "https://anishparikhwebsite.firebaseapp.com/"
+title = "Anish Parikh"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[imaging]
+quality = 100
+anchor = "smart"
+
+[params]
+    author = "Anish Parikh"
+    info = "Full Stack Software Engineer"
+    description = "Anish Parikh's personal website"
+    keywords = "developer,personal"
+    avatarurl = "images/frontshot.jpg"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "You will never walk alone!"
+
+    hidecredits = true
+    hidecopyright = true
+
+    rtl = false
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/anish2591/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 2
+    url = "https://www.linkedin.com/in/anparikh/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/anishparikh7/"
+
+# Menu links
+[[menu.main]]
+    name = "Education"
+    weight = 1
+    url  = "/education/"
+[[menu.main]]
+    name = "Experience"
+    weight = 2
+    url = "/experience/"
+[[menu.main]]
+    name = "About"
+    weight = 3
+    url = "/about/"
